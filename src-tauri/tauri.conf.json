@@ -7,7 +7,7 @@
     "beforeDevCommand": "next dev",
     "devUrl": "http://localhost:3000",
     "beforeBuildCommand": "next build",
-    "frontendDist": "../dist"
+    "frontendDist": "../out"
   },
   "app": {
     "withGlobalTauri": true,
